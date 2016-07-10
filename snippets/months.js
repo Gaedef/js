@@ -1,3 +1,8 @@
+/*
+@understands: Write a JS program to enter month number between(1-12) and print the number of days in month. 
+@author: gaedef
+*/
+
 var month = 33
 
 if( month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12) {
